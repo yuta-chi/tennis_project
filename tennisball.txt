@@ -3,3 +3,7 @@
 cx200
 赤いracket
 ファイア
+fx500 
+青いracket
+water
+
